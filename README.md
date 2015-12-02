@@ -16,8 +16,10 @@ This program is for educational purposes only. I am not responsible for damage c
 
 
 
-###People behing this project:
+###People currently working on this project:
 
 -Tomáš Tomovčík
 
--Vopojtepek
+-Vopojtepek ()
+
+-CloudNineBobor ()
