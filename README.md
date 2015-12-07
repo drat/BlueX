@@ -21,5 +21,3 @@ This program is for educational purposes only. I am not responsible for damage c
 -Tomáš Tomovčík
 
 -Vopojtepek ()
-
--CloudNineBobor ()
